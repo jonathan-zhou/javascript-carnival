@@ -56,11 +56,13 @@ Make sure you push your code up to github so we can all enjoy it!
 Open `my-reflections-sprint-5.md` from your reflections file in VS Code, add a `Inflate The Unicorn` heading, and add the following reflection questions from this challenge.
 
 - Did you learn anything new during this exercise? What was it?
+I learned that I can use png files/images as a string
 
 - Did you encounter issues completing any of the steps of this exercise? How did you resolve this?
+The unicorn would stop at the 2nd unicorn image because I was comparing the full image source to only a section of it. My work around was to create a variable that only took the version number and image file extension to get the unicorn version number. 
 
 - If you were to replace the unicorn with another mystical animal of your choice, what would it be?  
-
+Maybe a pokemon? lol
 Make sure you commit and push to GitHub.
 
 ## Stretch
